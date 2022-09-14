@@ -13,12 +13,12 @@ ___
 ### Weekly Awards
 
 #### Big Dick Award (Most Total Points) $$
-Tyler Osteen - 148.16 points 
+Tyler Osteen - 148.16 points
 
 ![](https://media.giphy.com/media/ENcROyB1aZIk4KchRS/giphy.gif)
 
 #### Little Bitch Award (Fewest Total Points)
-Nick Hassig - 67.32 points 
+Nick Hassig - 67.32 points
 
 ![](https://media.giphy.com/media/mcH0upG1TeEak/giphy.gif)
 
@@ -27,7 +27,7 @@ Lucky Winners:
 Trevor Donovan - 117.48 points
 
 Unlucky Losers:
-Chris Donovan - 132.0 points 
+Chris Donovan - 132.0 points
 
 ___
 
