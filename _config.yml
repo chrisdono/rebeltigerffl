@@ -20,8 +20,8 @@ author: Chris Donovan
 ###############################################
 
 navbar-links:
-  Franchises: "aboutme"
-  Weekly Wrapups:
+  # Franchises: "aboutme"
+  Weekly Wrapups: 
     - Week 1: "week_1"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
       # - Learn markdown: "https://www.markdowntutorial.com/"
