@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Rebel Tiger Fantasy Football League
+title: 
 subtitle:
+cover-img: "assets/img/rebeltiger_header.png"
 ---
 
 ## Weekly Wrapups
