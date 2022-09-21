@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Week 2
+subtitle: September 21, 2022
 ---
 
 ### Summary
