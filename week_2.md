@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 2
+title: Week 2 Wrapup
 subtitle: September 21, 2022
 ---
 
