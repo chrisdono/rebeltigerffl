@@ -1,7 +1,5 @@
 ---
 layout: home
-title:  
-subtitle:
 cover-img: "assets/img/rebeltiger_header.png"
 ---
 
