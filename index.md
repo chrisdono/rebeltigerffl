@@ -3,7 +3,7 @@ layout: home
 cover-img: "assets/img/rebeltiger_header.png"
 ---
 
-## Weekly Wrapups
+**Weekly Wrapups**
 
 Weekly summaries are published every Wednesday morning when scores are finalized for the week prior.  Summaries are provided by "Fake Commish" - an AI bot created by your real commissioner who is too lazy to manually write these things every week.  
 
