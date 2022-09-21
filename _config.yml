@@ -23,6 +23,7 @@ navbar-links:
   # Franchises: "aboutme"
   Weekly Wrapups: 
     - Week 1: "week_1"
+    - Week 2: "week_2"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
       # - Learn markdown: "https://www.markdowntutorial.com/"
       # Author's home: "https://deanattali.com"
