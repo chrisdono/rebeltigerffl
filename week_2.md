@@ -32,6 +32,9 @@ ___
 
 **Best and Worst for the Week**
 
+
+| Category              | Owner            |
+| --------------------- | ---------------- |
 | Most Points Scored:   | Nick Hassig      |
 | Least Points Scored:  | Alan Dukes       |
 | Best Possible Lineup: | Brian Nevill     |
@@ -43,6 +46,9 @@ ___
 
 **Best and Worst Positions for the Week**
 
+
+| Category              | Owner            |
+| --------------------- | ---------------- |
 | Best QBs:             | Nick Hassig      |
 | Best RBs:             | tyler osteen     |
 | Best WRs:             | Trevor  Donovan  |
