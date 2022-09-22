@@ -29,21 +29,19 @@ ___
 
 ![](../assets/img/week2_matchups.png)
 
-Lucky Winners:
-* BILL JOYNER
 
-Unlucky Losers:
-* Brian Nevill
-
-| Week 2                |                  |
+**Best and Worst for the Week**
 |-----------------------|------------------|
 | Most Points Scored:   | Nick Hassig      |
 | Least Points Scored:  | Alan Dukes       |
 | Best Possible Lineup: | Brian Nevill     |
-| Best Trio:            | Lee Arthur       |
-| Worst Trio:           | BILL JOYNER      |
 | Best Lineup Setter    | Nick Hassig      |
 | Worst Lineup Setter   | Lee Arthur       |
+| Lucky Winners:        | BILL JOYNER      |
+| Unlucky Losers:       | Brian Nevill     |
+
+
+**Best and Worst Positions for the Week**
 | --------------------- | ---------------- |
 | Best QBs:             | Nick Hassig      |
 | Best RBs:             | tyler osteen     |
