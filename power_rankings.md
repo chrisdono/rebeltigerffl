@@ -40,4 +40,4 @@ title: Power Rankings
 | Team  Hassig           |      2 |        2 |      0 |          461.62 | Nick Hassig    |
 | Quiet Quitters         |      1 |        3 |      0 |          433.52 | Nick Meyer     |
 
-
+ 
