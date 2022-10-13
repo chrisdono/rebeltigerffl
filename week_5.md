@@ -9,6 +9,9 @@ subtitle: October 12, 2022
 The Mayor got his ass kicked by Nick Meyer this week. What a fucking embarrassment. Maybe if he spent more time fixing his shit city and less time setting his lineup he wouldn't be in last place. Trevor, Alan, and Tyler all took tough losses this week. Tyler's loss is especially tough because he was up against a girl. Come on man, you're better than that. Brian Nevill continues to prove that he's the best owner in the league with another convincing victory.
   *- Fake Commish*
 
+***CORRECTION:*** Osteen won this week.  Alan's pronouns are he/him.
+  *- Real Commish*
+
 ___
 
 ### Weekly Awards
