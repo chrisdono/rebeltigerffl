@@ -3,39 +3,39 @@ layout: page
 title: Power Rankings
 ---
 
-### Power Rankings Week 6
+### Power Rankings Week 7
 
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner           |
 |-------|------------------------|---------------------|--------|----------|--------|------------------|-----------------|-----------------|
-|     1 | Hugh's  Butt Dial      |               29.80 |      3 |        2 |      0 |            68.40 |          683.56 | Brian Nevill    |
-|     2 | Joey Freshwater        |               29.20 |      3 |        2 |      0 |            53.80 |          661.60 | tyler osteen    |
-|     3 | Eifert  for the Bradys |               27.35 |      3 |        2 |      0 |            54.40 |          643.08 | David Mitchell  |
-|     4 | Fortes and Blounts     |               26.20 |      3 |        2 |      0 |            53.70 |          575.60 | Chris Donovan   |
-|     5 | Let em breathe 68      |               25.55 |      3 |        2 |      0 |            36.20 |          613.80 | Lee Arthur      |
-|     6 | They Tookerrr Jobs     |               23.70 |      3 |        2 |      0 |            37.10 |          530.04 | Alan Dukes      |
-|     7 | Dixie Normous          |               23.40 |      2 |        3 |      0 |            39.50 |          648.64 | Trevor  Donovan |
-|     8 | Quiet Quitters         |               21.40 |      2 |        3 |      0 |            20.80 |          555.96 | Nick Meyer      |
-|     9 | Team  Hassig           |               21.30 |      2 |        3 |      0 |            29.50 |          555.08 | Nick Hassig     |
-|    10 | The Mayor -            |               16.00 |      1 |        4 |      0 |             6.60 |          472.92 | BILL JOYNER     |
+|     1 | Hugh's  Butt Dial      |               33.40 |      4 |        2 |      0 |            76.70 |          799.16 | Brian Nevill    |
+|     2 | Joey Freshwater        |               28.50 |      3 |        3 |      0 |            38.30 |          739.62 | tyler osteen    |
+|     3 | They Tookerrr Jobs     |               28.45 |      4 |        2 |      0 |            50.00 |          635.22 | Alan Dukes      |
+|     4 | Dixie Normous          |               28.00 |      3 |        3 |      0 |            58.60 |          762.42 | Trevor  Donovan |
+|     5 | Eifert  for the Bradys |               27.20 |      3 |        3 |      0 |            40.40 |          741.40 | David Mitchell  |
+|     6 | Let em breathe 68      |               26.45 |      3 |        3 |      0 |            33.20 |          712.18 | Lee Arthur      |
+|     7 | Fortes and Blounts     |               26.40 |      3 |        3 |      0 |            43.90 |          677.34 | Chris Donovan   |
+|     8 | Quiet Quitters         |               24.70 |      3 |        3 |      0 |            29.00 |          639.28 | Nick Meyer      |
+|     9 | Team  Hassig           |               22.45 |      2 |        4 |      0 |            18.50 |          649.20 | Nick Hassig     |
+|    10 | The Mayor -            |               20.20 |      2 |        4 |      0 |            11.40 |          589.30 | BILL JOYNER     |
 
 ### Standings
 
-#### BD Division Standings Week 6
+#### BD Division Standings Week 7
 
 | Team              |   Wins |   Losses |   Ties |   Points Scored | Owner           |
 |-------------------|--------|----------|--------|-----------------|-----------------|
-| Hugh's  Butt Dial |      3 |        2 |      0 |          683.56 | Brian Nevill    |
-| Joey Freshwater   |      3 |        2 |      0 |          661.60 | tyler osteen    |
-| Let em breathe 68 |      3 |        2 |      0 |          613.80 | Lee Arthur      |
-| Dixie Normous     |      2 |        3 |      0 |          648.64 | Trevor  Donovan |
-| The Mayor -       |      1 |        4 |      0 |          472.92 | BILL JOYNER     |
+| Hugh's  Butt Dial |      4 |        2 |      0 |          799.16 | Brian Nevill    |
+| Dixie Normous     |      3 |        3 |      0 |          762.42 | Trevor  Donovan |
+| Joey Freshwater   |      3 |        3 |      0 |          739.62 | tyler osteen    |
+| Let em breathe 68 |      3 |        3 |      0 |          712.18 | Lee Arthur      |
+| The Mayor -       |      2 |        4 |      0 |          589.30 | BILL JOYNER     |
 
-#### JT Division Standings Week 6
+#### JT Division Standings Week 7
 
 | Team                   |   Wins |   Losses |   Ties |   Points Scored | Owner          |
 |------------------------|--------|----------|--------|-----------------|----------------|
-| Eifert  for the Bradys |      3 |        2 |      0 |          643.08 | David Mitchell |
-| Fortes and Blounts     |      3 |        2 |      0 |          575.60 | Chris Donovan  |
-| They Tookerrr Jobs     |      3 |        2 |      0 |          530.04 | Alan Dukes     |
-| Quiet Quitters         |      2 |        3 |      0 |          555.96 | Nick Meyer     |
-| Team  Hassig           |      2 |        3 |      0 |          555.08 | Nick Hassig    |
+| They Tookerrr Jobs     |      4 |        2 |      0 |          635.22 | Alan Dukes     |
+| Eifert  for the Bradys |      3 |        3 |      0 |          741.40 | David Mitchell |
+| Fortes and Blounts     |      3 |        3 |      0 |          677.34 | Chris Donovan  |
+| Quiet Quitters         |      3 |        3 |      0 |          639.28 | Nick Meyer     |
+| Team  Hassig           |      2 |        4 |      0 |          649.20 | Nick Hassig    |
