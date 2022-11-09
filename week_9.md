@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 9 Wrapup
-subtitle: October 12, 2022
+subtitle: November 9, 2022
 ---
 
 ### Summary
