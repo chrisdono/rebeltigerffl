@@ -1,0 +1,81 @@
+---
+layout: page
+title: Week 12 Wrapup
+subtitle: November 30, 2022
+---
+
+### Summary
+
+In the game of the week, Trevor barely pulled out a victory against David. Trevor is really starting to show his dominance in the league and is looking like the favorite to win it all. Alan had an easy win against Nick M. and is also looking strong. Tyler had a big win against Nick H. and is now in contention for a playoff spot. Lee squeaked by Bill in a close one. Chris and Brian had a close game with Brian coming out on top. 
+Trevor and Alan are at the top of the standings with 9 wins each. The playoff race is heating up with Lee, David, Tyler, Chris, Brian, and Bill all fighting for the final two spots.  *- Fake Commish*
+
+***CORRECTION:*** Alan has 8 wins. It looks like Brian's streak of 2nd place finishes will come to an end this year as Brian and Bill are out of playoff contention. Updated playoff chances below.
+
+1. Trevor Donovan. 9-3. 100.0%.
+2. Alan Dukes. 8-4. 100.0%.
+3. Lee Arthur. 7-5. 91.10000000000001%.
+4. David Mitchell. 6-6. 65.10000000000001%.
+5. tyler osteen. 6-6. 32.2%.
+6. Chris Donovan. 6-6. 11.5%.
+7. Brian Nevill. 5-7. 0.1%.
+8. BILL JOYNER. 5-7. 0.0%.
+9. Nick Hassig. 4-8. 0.0%.
+10. Nick Meyer. 4-8. 0.0%.
+
+___
+
+### Weekly Awards
+
+#### Big Dick Award (Most Total Points) $$
+Trevor Donovan 158.22 
+
+![](https://media1.giphy.com/media/iKGMVLYvaFv0SOysft/giphy.gif?cid=3aa7f8120nhulb2tktf8cx6u28r38sne5oqiz5q5f4wmdrdv&rid=giphy.gif&ct=g)
+
+#### Little Bitch Award (Fewest Total Points)
+BILL JOYNER 84.94 
+
+![](https://media4.giphy.com/media/tbw5icxmHzmFYgVsZQ/giphy.gif?cid=3aa7f8127czdd3fqqdwu1aw4fau4idvcmjw0qfokuj3nyeak&rid=giphy.gif&ct=g)
+
+
+___
+
+### Matchups Overview
+
+![](../assets/img/week12_matchups.png)
+
+
+**Best and Worst for the Week**
+
+
+| Category              | Owner                            |
+|-----------------------|----------------------------------|
+| Most Points Scored:   | Trevor  Donovan                  |
+| Least Points Scored:  | BILL JOYNER                      |
+| Best Possible Lineup: | Trevor  Donovan                  |
+| Best Lineup Setter    | tyler osteen                     |
+| Worst Lineup Setter   | BILL JOYNER                      |
+| Lucky Winners         | Lee Arthur,<br />Brian Nevill    |
+| Unlucky Losers        | David Mitchell,<br />Nick Hassig |
+
+
+**Best and Worst Positions for the Week**
+
+
+| Category              | Owner            |
+|-----------------------|------------------|
+| Best QBs:             | tyler osteen     |
+| Best RBs:             | Trevor  Donovan  |
+| Best WRs:             | David Mitchell   |
+| Best TEs:             | tyler osteen     |
+| Best DST:             | Nick Hassig      |
+| Best K:               | Trevor  Donovan  |
+| Best Bench:           | Nick Hassig      |
+| --------------------- | ---------------- |
+| Worst QBs:            | BILL JOYNER      |
+| Worst RBs:            | Brian Nevill     |
+| Worst WRs:            | Nick Meyer       |
+| Worst TEs:            | Nick Hassig      |
+| Worst DST:            | tyler osteen     |
+| Worst K:              | Lee Arthur       |
+| Worst Bench:          | tyler osteen     |
+
