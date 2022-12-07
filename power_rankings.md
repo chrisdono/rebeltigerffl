@@ -3,39 +3,39 @@ layout: page
 title: Power Rankings
 ---
 
-### Power Rankings Week 13
+### Power Rankings Week 14
 
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner           |
 |-------|------------------------|---------------------|--------|----------|--------|------------------|-----------------|-----------------|
-|     1 | Dixie Normous          |               64.70 |      9 |        3 |      0 |           100.00 |         1505.74 | Trevor  Donovan |
-|     2 | They Tookerrr Jobs     |               59.75 |      8 |        4 |      0 |           100.00 |         1350.28 | Alan Dukes      |
-|     3 | Let em breathe 68      |               59.00 |      7 |        5 |      0 |            91.10 |         1496.22 | Lee Arthur      |
-|     4 | Eifert  for the Bradys |               50.15 |      6 |        6 |      0 |            65.10 |         1588.92 | David Mitchell  |
-|     5 | Joey Freshwater        |               49.75 |      6 |        6 |      0 |            32.20 |         1433.92 | tyler osteen    |
-|     6 | Fortes and Blounts     |               45.45 |      6 |        6 |      0 |            11.50 |         1346.26 | Chris Donovan   |
-|     7 | Hugh's  Butt Dial      |               44.65 |      5 |        7 |      0 |             0.10 |         1405.62 | Brian Nevill    |
-|     8 | The Mayor -            |               41.65 |      5 |        7 |      0 |             0.00 |         1210.94 | BILL JOYNER     |
-|     9 | Team  Hassig           |               37.55 |      4 |        8 |      0 |             0.00 |         1336.42 | Nick Hassig     |
-|    10 | Quiet Quitters         |               36.85 |      4 |        8 |      0 |             0.00 |         1191.16 | Nick Meyer      |
+|     1 | Dixie Normous          |               75.35 |     10 |        3 |      0 |           100.00 |         1639.86 | Trevor  Donovan |
+|     2 | Let em breathe 68      |               65.90 |      8 |        5 |      0 |           100.00 |         1597.74 | Lee Arthur      |
+|     3 | They Tookerrr Jobs     |               62.65 |      8 |        5 |      0 |           100.00 |         1449.68 | Alan Dukes      |
+|     4 | Joey Freshwater        |               52.70 |      6 |        7 |      0 |             0.00 |         1539.32 | tyler osteen    |
+|     5 | Eifert  for the Bradys |               52.25 |      6 |        7 |      0 |           100.00 |         1713.08 | David Mitchell  |
+|     6 | Hugh's  Butt Dial      |               51.45 |      6 |        7 |      0 |             0.00 |         1548.62 | Brian Nevill    |
+|     7 | The Mayor -            |               49.30 |      6 |        7 |      0 |             0.00 |         1337.14 | BILL JOYNER     |
+|     8 | Fortes and Blounts     |               47.75 |      6 |        7 |      0 |             0.00 |         1466.10 | Chris Donovan   |
+|     9 | Team  Hassig           |               46.00 |      5 |        8 |      0 |             0.00 |         1481.46 | Nick Hassig     |
+|    10 | Quiet Quitters         |               38.30 |      4 |        9 |      0 |             0.00 |         1281.88 | Nick Meyer      |
 
 ### Standings
 
-#### BD Division Standings Week 13
+#### BD Division Standings Week 14
 
 | Team              |   Wins |   Losses |   Ties |   Points Scored | Owner           |
 |-------------------|--------|----------|--------|-----------------|-----------------|
-| Dixie Normous     |      9 |        3 |      0 |         1505.74 | Trevor  Donovan |
-| Let em breathe 68 |      7 |        5 |      0 |         1496.22 | Lee Arthur      |
-| Joey Freshwater   |      6 |        6 |      0 |         1433.92 | tyler osteen    |
-| Hugh's  Butt Dial |      5 |        7 |      0 |         1405.62 | Brian Nevill    |
-| The Mayor -       |      5 |        7 |      0 |         1210.94 | BILL JOYNER     |
+| Dixie Normous     |     10 |        3 |      0 |         1639.86 | Trevor  Donovan |
+| Let em breathe 68 |      8 |        5 |      0 |         1597.74 | Lee Arthur      |
+| Hugh's  Butt Dial |      6 |        7 |      0 |         1548.62 | Brian Nevill    |
+| Joey Freshwater   |      6 |        7 |      0 |         1539.32 | tyler osteen    |
+| The Mayor -       |      6 |        7 |      0 |         1337.14 | BILL JOYNER     |
 
-#### JT Division Standings Week 13
+#### JT Division Standings Week 14
 
 | Team                   |   Wins |   Losses |   Ties |   Points Scored | Owner          |
 |------------------------|--------|----------|--------|-----------------|----------------|
-| They Tookerrr Jobs     |      8 |        4 |      0 |         1350.28 | Alan Dukes     |
-| Eifert  for the Bradys |      6 |        6 |      0 |         1588.92 | David Mitchell |
-| Fortes and Blounts     |      6 |        6 |      0 |         1346.26 | Chris Donovan  |
-| Team  Hassig           |      4 |        8 |      0 |         1336.42 | Nick Hassig    |
-| Quiet Quitters         |      4 |        8 |      0 |         1191.16 | Nick Meyer     |
+| They Tookerrr Jobs     |      8 |        5 |      0 |         1449.68 | Alan Dukes     |
+| Eifert  for the Bradys |      6 |        7 |      0 |         1713.08 | David Mitchell |
+| Fortes and Blounts     |      6 |        7 |      0 |         1466.10 | Chris Donovan  |
+| Team  Hassig           |      5 |        8 |      0 |         1481.46 | Nick Hassig    |
+| Quiet Quitters         |      4 |        9 |      0 |         1281.88 | Nick Meyer     |
