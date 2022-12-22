@@ -1,0 +1,19 @@
+---
+layout: page
+title: Playoffs Wrapup
+subtitle: December 21, 2022
+---
+
+### Semifinal Round Summary
+
+1. Trevor (231)  vs.  4. David (286)
+2. Alan (168)  vs.  3. Lee (272)
+
+Well, let D-Mitch sneak his way into the playoffs and look out.  He made the most of his opportunity scoring the most of any team for the two-week semifinal round and upsetting top seed Trevor. 
+
+For the other matchup, Alan continued his streak of never winning the league by also suffering an upset and losing to Lee.  
+
+The final is set. Lee vs David. Here we go!  *- Real Commish*
+
+![](https://media0.giphy.com/media/8YmZ14DOpivXMuckSI/giphy.gif?cid=3aa7f8121mf5q7ey6fjkquszlkhwuhrd5g1a78we9nid217m&rid=giphy.gif&ct=g)
+
