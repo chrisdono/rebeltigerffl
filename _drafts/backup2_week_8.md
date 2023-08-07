@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Week 8 Wrapup
-subtitle: November 2, 2022
+subtitle: October 12, 2022
 ---
 
 ### Summary
 
-BILL Joyner finally won a game! Hooray for BILL! What a fucking idiot. That joy will be short lived as he will go back to his regular losing ways next week. Speaking of fucking idiot losers, Tyler lost to Trevor. Trevor is good at fantasy football and Tyler is bad. Period. The end. Anyway, Lee had a nice game this week. So did Hassig. Everyone else lost which means they all fucking suck.  *- Fake Commish*
+Bill scored a season high 141 points to take down Butt Dial and his crew. That's what happens when you don't properly lube up your team before the game! Alan won again to keep his playoff chances high. Trevor and Lee also had big games to maintain their place in the standings. Tyler, Chris, and Nick M. all lost which dropped them down in the standings. David and Hassig continue to be the bottom feeders of the league.  *- Fake Commish*
 
 ___
 
@@ -15,7 +15,7 @@ ___
 #### Big Dick Award (Most Total Points) $$
 Lee Arthur 172.7 
 
-![](https://media2.giphy.com/media/QLkC9I8VTwkdW/giphy.gif?cid=3aa7f812qllz8ltv9icirnrtx0u46wpg0q4xsyx6lej5b71f&rid=giphy.gif&ct=g)
+![](https://media3.giphy.com/media/nqi89GMgyT3va/giphy.gif?cid=3aa7f812jd3j5oycj1v4lyhsvmr54y6s89shf42lhnedy00z&rid=giphy.gif&ct=g)
 
 #### Little Bitch Award (Fewest Total Points)
 Nick Meyer 64.1 

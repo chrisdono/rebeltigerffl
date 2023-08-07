@@ -6,10 +6,9 @@ subtitle: November 16, 2022
 
 ### Summary
 
-Chris Donovan continues his winning ways by destroying Nick Meyer and Quiet Quitters. Lee gets a big win against Alan to keep his playoff hopes alive. Trevor does what he does best and beats up on Bill. David Mitchell gets a big win against Tyler to stay in the playoff hunt.
+This was a week of upsets! Chris Donovan finally pulled out a win against Nick Meyer. Meyer's team name, Quiet Quitters, is very fitting as they have now quit on the season. Trevor Donovan squeaked out a win against Bill Joyner. Joyner's team is also done for the season. David Mitchell had a huge week, scoring 173 points to beat tyler osteen. Brian Nevill's team got their asses handed to them by Nick Hassig.
 
-Standings:
-Trevor and Alan are still at the top of the standings with 7 wins each. Chris Donovan is sitting in 3rd place with 6 wins. David Mitchell is in 4th place with 5 wins and is still in the hunt for a playoff spot. Brian Nevill is in last place with 4 losses.  *- Fake Commish*
+In the standings, Trevor Donovan and Alan Dukes are still in the lead with 7 wins each. David Mitchell has pulled into a tie for third place with Chris Donovan. Lee Arthur and Brian Nevill are both still in contention for the final playoff spot with 5 wins each.  *- Fake Commish*
 
 ___
 
@@ -18,12 +17,12 @@ ___
 #### Big Dick Award (Most Total Points) $$
 David Mitchell 173.68 
 
-![](https://media4.giphy.com/media/l4KhWoeoyjJIP57ri/giphy.gif?cid=3aa7f812556z2x1c5w3gy2xv20xfvhrgrs2y0cgpelanzlgm&rid=giphy.gif&ct=g)
+![](https://media3.giphy.com/media/4QFAH0qZ0LQnIwVYKT/giphy.gif?cid=3aa7f812t5bnlpqjlv7u7xkbqnhzkub5hreo9k5yu0j9d9b1&rid=giphy.gif&ct=g)
 
 #### Little Bitch Award (Fewest Total Points)
 Brian Nevill 79.1 
 
-![](https://media0.giphy.com/media/xTiTnLbo0KIJ8hrNjG/giphy.gif?cid=3aa7f812ccp84xfw14fr5k9o3my4rvp39ag5wbdajp1aliq3&rid=giphy.gif&ct=g)
+![](https://media1.giphy.com/media/daP8i8YusXaYnjYBIM/giphy.gif?cid=3aa7f8127m36my3tbhgbn092qsuybqq88000mvyw9rjnymzw&rid=giphy.gif&ct=g)
 
 
 ___
