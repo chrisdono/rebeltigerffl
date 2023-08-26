@@ -4,11 +4,16 @@ layout: page
 
 {{ content }}
 
-{% assign posts_wrapup = site.posts | where: "tags", "wrapup" %}
+<!--{% assign posts_ranking = site.posts | where: "tags", "ranking" | slice: 1, 20 %}-->
+{% assign posts_ranking = site.posts | where: "tags", "ranking" | slice: 0, 40 %}
+{% assign post_latest = site.posts | where:"tags", "ranking" | slice: 0 %}
 
+<br>
+<br>
+<h2 class="post-title">Previous Power Rankings</h2>
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts_wrapup %}
+  {% for post in posts_ranking %}
   <li class="post-preview">
     <article>
 
@@ -37,7 +42,7 @@ layout: page
       {% endif %}
 
       <a href="{{ post.url | absolute_url }}">
-        <h2 class="post-title">{{ post.title | strip_html }}</h2>
+        <h3 class="post-subtitle">{{ post.title | strip_html }}</h3>
 
         {% if post.subtitle %}
           <h3 class="post-subtitle">
@@ -68,6 +73,7 @@ layout: page
       </div>
       {% endif %}
 
+      <!--
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
@@ -76,6 +82,7 @@ layout: page
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
+      -->
       {% endunless %}
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}

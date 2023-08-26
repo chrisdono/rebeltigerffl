@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Power Rankings
+layout: post
+title: Power Rankings Week 7
+tags: 2022 ranking
 ---
 
 ### Power Rankings Week 7

@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: home_power_rankings
 title: Power Rankings
+cover-img: "assets/img/rebeltiger_header_dark.png"
 ---
+
+![](../assets/img/pr22-14.png)
 
 ### Power Rankings Week 14
 
@@ -17,6 +20,7 @@ title: Power Rankings
 |     8 | Fortes and Blounts     |               47.75 |      6 |        7 |      0 |             0.00 |         1466.10 | Chris Donovan   |
 |     9 | Team  Hassig           |               46.00 |      5 |        8 |      0 |             0.00 |         1481.46 | Nick Hassig     |
 |    10 | Quiet Quitters         |               38.30 |      4 |        9 |      0 |             0.00 |         1281.88 | Nick Meyer      |
+
 
 ### Standings
 
@@ -39,3 +43,5 @@ title: Power Rankings
 | Fortes and Blounts     |      6 |        7 |      0 |         1466.10 | Chris Donovan  |
 | Team  Hassig           |      5 |        8 |      0 |         1481.46 | Nick Hassig    |
 | Quiet Quitters         |      4 |        9 |      0 |         1281.88 | Nick Meyer     |
+
+

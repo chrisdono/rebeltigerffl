@@ -20,26 +20,10 @@ author: Chris Donovan
 
 navbar-links:
   # Franchises: "aboutme"
-  Teams: "teams"
+  # Teams: "teams"
   Power Rankings: "power_rankings"
   Weekly Wrapups: "weekly_wrapups"
-  Weekly:
-    - Week 1: "week_1"
-    - Week 2: "week_2"
-    - Week 3: "week_3"
-    - Week 4: "week_4"
-    - Week 5: "week_5"
-    - Week 6: "week_6"
-    - Week 7: "week_7"
-    - Week 8: "week_8"
-    - Week 9: "week_9"
-    - Week 10: "week_10"
-    - Week 11: "week_11"
-    - Week 12: "week_12"
-    - Week 13: "week_13"
-    - Playoff Semis: "playoffs"
-    - Final: "final"
-  Records: "records"
+    # Records: "records"
 
 ################
 # --- Logo --- #
@@ -76,9 +60,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -92,10 +76,10 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: false
+post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
