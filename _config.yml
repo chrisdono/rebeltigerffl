@@ -21,6 +21,7 @@ author: Chris Donovan
 navbar-links:
   # Franchises: "aboutme"
   # Teams: "teams"
+  Home: "index"
   Power Rankings: "power_rankings"
   Weekly Wrapups: "weekly_wrapups"
     # Records: "records"

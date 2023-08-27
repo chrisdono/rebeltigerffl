@@ -1,4 +1,3 @@
-// Dean Attali / Beautiful Jekyll 2020
 
 var BeautifulJekyllJS = {
 
