@@ -4,7 +4,8 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+<!--{% assign posts = paginator.posts | default: site.posts %}-->
+{% assign posts = site.posts | slice: 0, 5 %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
@@ -97,6 +98,7 @@ layout: page
   {% endfor %}
 </ul>
 
+<!--
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
@@ -111,3 +113,4 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+-->
