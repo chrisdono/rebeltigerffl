@@ -1,7 +1,7 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 2
+tags: 2023 ranking
 ---
 
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner   |
