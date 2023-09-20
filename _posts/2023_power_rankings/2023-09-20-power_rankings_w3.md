@@ -1,8 +1,9 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 3
 ---
+
+### Power Rankings Week 3
 
 ![](../assets/img/pr2023-2.png)
 
@@ -41,4 +42,3 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 | Eifert  for the Bradys |      1 |        1 |      0 |          209.80 | David   |
 | They Tookerrr Jobs     |      0 |        2 |      0 |          187.94 | Alan    |
 | Let em breathe 68      |      0 |        2 |      0 |          163.06 | Lee     |
-
