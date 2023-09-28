@@ -4,6 +4,9 @@ title: Power Rankings Week 2
 tags: 2023 ranking
 ---
 
+### Power Rankings Week 2
+
+
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner   |
 |-------|------------------------|---------------------|--------|----------|--------|------------------|-----------------|---------|
 |     1 | Joey Freshwater        |               25.40 |      1 |        0 |      0 |            49.15 |          144.80 | Tyler   |

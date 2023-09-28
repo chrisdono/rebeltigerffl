@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Power Rankings Week 3
+tags: 2023 ranking
 ---
 
-### Power Rankings Week 3
-
 ![](../assets/img/pr2023-2.png)
+
+### Power Rankings Week 3
 
 
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner   |
