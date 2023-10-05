@@ -1,7 +1,7 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 5
+tags: 2023 ranking
 ---
 
 ![](../assets/img/pr2023-4.png)
