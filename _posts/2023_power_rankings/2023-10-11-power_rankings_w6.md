@@ -1,7 +1,7 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 6
+tags: 2023 ranking
 ---
 
 ![](../assets/img/pr2023-5.png)
@@ -43,4 +43,3 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 | Hugh's  Butt Dial      |      2 |        3 |      0 |          542.78 | Brian   |
 | Fortes and Blounts     |      2 |        3 |      0 |          476.40 | Chris   |
 | They Tookerrr Jobs     |      1 |        4 |      0 |          486.88 | Alan    |
-
