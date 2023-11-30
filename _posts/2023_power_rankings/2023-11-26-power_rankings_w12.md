@@ -1,7 +1,7 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 12
+tags: 2023 ranking
 ---
 
 ![](../assets/img/pr2023-11.png)
@@ -43,4 +43,3 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 | Eifert  for the Bradys |      6 |        5 |      0 |         1307.10 | David   |
 | Fortes and Blounts     |      4 |        7 |      0 |         1110.20 | Chris   |
 | They Tookerrr Jobs     |      3 |        8 |      0 |         1133.02 | Alan    |
-
