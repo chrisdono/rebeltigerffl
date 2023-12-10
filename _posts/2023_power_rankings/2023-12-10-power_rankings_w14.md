@@ -1,7 +1,7 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 14
+tags: 2023 ranking
 ---
 
 ![](../assets/img/pr2023-13.png)
@@ -43,4 +43,3 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 | Let em breathe 68      |      7 |        6 |      0 |         1506.36 | Lee     |
 | Fortes and Blounts     |      5 |        8 |      0 |         1334.46 | Chris   |
 | They Tookerrr Jobs     |      3 |       10 |      0 |         1321.64 | Alan    |
-
