@@ -1,8 +1,9 @@
 ---
-layout: home_power_rankings
-title: Power Rankings
-cover-img: "assets/img/rebeltiger_header_dark.png"
+layout: post
+title: Power Rankings Week 17
+tags: 2024 ranking
 ---
+
 ![](../assets/img/pr2024-16.png)
 
 
@@ -42,4 +43,3 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 | Dixie Normous      |      5 |        8 |      0 |         1371.64 | Trevor  |
 | Fortes and Blounts |      6 |        7 |      0 |         1556.62 | Chris   |
 | Hugh's  Butt Dial  |      5 |        8 |      0 |         1443.56 | Brian   |
-
