@@ -4,9 +4,50 @@ title: Records
 cover-img: "assets/img/rebeltiger_header_dark.png"
 ---
 
-## Single Game
+<style>
+.nav-pills .nav-link {
+  color: #495057;
+}
+.nav-pills .nav-link:hover, .nav-pills .nav-link:focus {
+  color: #212529;
+  background-color: #e9ecef;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #495057;
+  color: #fff;
+}
+.records-section-nav {
+  margin-bottom: 1.5rem;
+}
+.records-section-nav .nav-link {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+</style>
 
-### Most Points Scored - Single Game
+<ul class="nav nav-pills mb-3 records-section-nav" role="tablist">
+<li class="nav-item"><a class="nav-link active" id="section-single-game-tab" data-toggle="pill" href="#section-single-game" role="tab" aria-controls="section-single-game" aria-selected="true">Single Game</a></li>
+<li class="nav-item"><a class="nav-link" id="section-single-season-tab" data-toggle="pill" href="#section-single-season" role="tab" aria-controls="section-single-season" aria-selected="false">Single Season</a></li>
+<li class="nav-item"><a class="nav-link" id="section-career-tab" data-toggle="pill" href="#section-career" role="tab" aria-controls="section-career" aria-selected="false">Career</a></li>
+<li class="nav-item"><a class="nav-link" id="section-postseason-tab" data-toggle="pill" href="#section-postseason" role="tab" aria-controls="section-postseason" aria-selected="false">Postseason</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane fade show active" id="section-single-game" role="tabpanel" aria-labelledby="section-single-game-tab" markdown="1">
+
+<ul class="nav nav-pills mb-3" role="tablist">
+<li class="nav-item"><a class="nav-link active" id="single-game-most-points-scored-single-game-tab" data-toggle="pill" href="#single-game-most-points-scored-single-game" role="tab" aria-controls="single-game-most-points-scored-single-game" aria-selected="true">Most Points Scored</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-fewest-points-scored-single-game-tab" data-toggle="pill" href="#single-game-fewest-points-scored-single-game" role="tab" aria-controls="single-game-fewest-points-scored-single-game" aria-selected="false">Fewest Points Scored</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-fewest-points-scored-in-a-win-tab" data-toggle="pill" href="#single-game-fewest-points-scored-in-a-win" role="tab" aria-controls="single-game-fewest-points-scored-in-a-win" aria-selected="false">Fewest Points Scored in a Win</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-most-points-scored-in-a-loss-tab" data-toggle="pill" href="#single-game-most-points-scored-in-a-loss" role="tab" aria-controls="single-game-most-points-scored-in-a-loss" aria-selected="false">Most Points Scored in a Loss</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-most-combined-points-tab" data-toggle="pill" href="#single-game-most-combined-points" role="tab" aria-controls="single-game-most-combined-points" aria-selected="false">Most Combined Points</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-fewest-combined-points-tab" data-toggle="pill" href="#single-game-fewest-combined-points" role="tab" aria-controls="single-game-fewest-combined-points" aria-selected="false">Fewest Combined Points</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-largest-margin-of-victory-tab" data-toggle="pill" href="#single-game-largest-margin-of-victory" role="tab" aria-controls="single-game-largest-margin-of-victory" aria-selected="false">Largest Margin of Victory</a></li>
+<li class="nav-item"><a class="nav-link" id="single-game-smallest-margin-of-victory-tab" data-toggle="pill" href="#single-game-smallest-margin-of-victory" role="tab" aria-controls="single-game-smallest-margin-of-victory" aria-selected="false">Smallest Margin of Victory</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane fade show active" id="single-game-most-points-scored-single-game" role="tabpanel" aria-labelledby="single-game-most-points-scored-single-game-tab" markdown="1">
 
 |   Rank | Franchise             |   Score |   Season |   Week | Opponent (Score)           |
 |--------|-----------------------|---------|----------|--------|----------------------------|
@@ -21,7 +62,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Let em breathe 68     |  284.26 |     2025 |     14 | The Saucy Sheriff (245.4)  |
 |     10 | Quiet Quitters        |  283.28 |     2021 |     15 | The Saucy Sheriff (128.4)  |
 
-### Fewest Points Scored - Single Game
+</div>
+<div class="tab-pane fade" id="single-game-fewest-points-scored-single-game" role="tabpanel" aria-labelledby="single-game-fewest-points-scored-single-game-tab" markdown="1">
 
 |   Rank | Franchise             |   Score |   Season |   Week | Opponent (Score)          |
 |--------|-----------------------|---------|----------|--------|---------------------------|
@@ -36,7 +78,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Joey Freshwater       |      32 |     2007 |      6 | Let em breathe 68 (66.0)  |
 |     10 | La Flama Blanca       |      33 |     2007 |      9 | Team Turbo (82.0)         |
 
-### Fewest Points Scored in a Win
+</div>
+<div class="tab-pane fade" id="single-game-fewest-points-scored-in-a-win" role="tabpanel" aria-labelledby="single-game-fewest-points-scored-in-a-win-tab" markdown="1">
 
 |   Rank | Franchise         |   Score |   Season |   Week | Opponent (Score)          |
 |--------|-------------------|---------|----------|--------|---------------------------|
@@ -51,7 +94,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | La Flama Blanca   |      57 |     2007 |     16 | Let em breathe 68 (55.0)  |
 |     10 | Team Turbo        |      58 |     2008 |     11 | Let em breathe 68 (50.0)  |
 
-### Most Points Scored in a Loss
+</div>
+<div class="tab-pane fade" id="single-game-most-points-scored-in-a-loss" role="tabpanel" aria-labelledby="single-game-most-points-scored-in-a-loss-tab" markdown="1">
 
 |   Rank | Franchise             |   Score |   Season |   Week | Opponent (Score)            |
 |--------|-----------------------|---------|----------|--------|-----------------------------|
@@ -66,7 +110,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | La Flama Blanca       |  239    |     2011 |     13 | Taste The Beast (246.0)     |
 |     10 | Quiet Quitters        |  232.14 |     2025 |     15 | They Tookerrr Jobs (238.64) |
 
-### Most Combined Points
+</div>
+<div class="tab-pane fade" id="single-game-most-combined-points" role="tabpanel" aria-labelledby="single-game-most-combined-points-tab" markdown="1">
 
 |   Rank | Franchise             |   Score |   Season |   Week | Opponent (Score)           |
 |--------|-----------------------|---------|----------|--------|----------------------------|
@@ -81,7 +126,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Fortes and Blounts    |  324    |     2012 |     15 | Dixie Normous (176.0)      |
 |     10 | Hugh's Butt Dial      |  300    |     2013 |     14 | Team Turbo (191.0)         |
 
-### Fewest Combined Points
+</div>
+<div class="tab-pane fade" id="single-game-fewest-combined-points" role="tabpanel" aria-labelledby="single-game-fewest-combined-points-tab" markdown="1">
 
 |   Rank | Franchise          |   Score |   Season |   Week | Opponent (Score)         |
 |--------|--------------------|---------|----------|--------|--------------------------|
@@ -96,7 +142,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Joey Freshwater    |      32 |     2007 |      6 | Let em breathe 68 (66.0) |
 |     10 | Fortes and Blounts |      48 |     2007 |     15 | Let em breathe 68 (52.0) |
 
-### Largest Margin of Victory
+</div>
+<div class="tab-pane fade" id="single-game-largest-margin-of-victory" role="tabpanel" aria-labelledby="single-game-largest-margin-of-victory-tab" markdown="1">
 
 |   Rank | Franchise          |   Score |   Season |   Week | Opponent (Score)           |
 |--------|--------------------|---------|----------|--------|----------------------------|
@@ -111,7 +158,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Hugh's Butt Dial   |  300    |     2013 |     14 | Team Turbo (191.0)         |
 |     10 | Team Turbo         |  205.32 |     2020 |     12 | The Mayor - (98.18)        |
 
-### Smallest Margin of Victory
+</div>
+<div class="tab-pane fade" id="single-game-smallest-margin-of-victory" role="tabpanel" aria-labelledby="single-game-smallest-margin-of-victory-tab" markdown="1">
 
 |   Rank | Franchise          |   Score |   Season |   Week | Opponent (Score)               |
 |--------|--------------------|---------|----------|--------|--------------------------------|
@@ -126,9 +174,24 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Quiet Quitters     |   86    |     2018 |      4 | Dixie Normous (85.5)           |
 |     10 | Team Turbo         |   99.5  |     2018 |      5 | Eifert for the Bradys (99.0)   |
 
-## Single Season
+</div>
+</div>
 
-### Most Wins - Single Season
+</div>
+<div class="tab-pane fade" id="section-single-season" role="tabpanel" aria-labelledby="section-single-season-tab" markdown="1">
+
+<ul class="nav nav-pills mb-3" role="tablist">
+<li class="nav-item"><a class="nav-link active" id="single-season-most-wins-single-season-tab" data-toggle="pill" href="#single-season-most-wins-single-season" role="tab" aria-controls="single-season-most-wins-single-season" aria-selected="true">Most Wins</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-most-losses-single-season-tab" data-toggle="pill" href="#single-season-most-losses-single-season" role="tab" aria-controls="single-season-most-losses-single-season" aria-selected="false">Most Losses</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-most-points-single-season-tab" data-toggle="pill" href="#single-season-most-points-single-season" role="tab" aria-controls="single-season-most-points-single-season" aria-selected="false">Most Points</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-fewest-points-single-season-tab" data-toggle="pill" href="#single-season-fewest-points-single-season" role="tab" aria-controls="single-season-fewest-points-single-season" aria-selected="false">Fewest Points</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-best-win-single-season-tab" data-toggle="pill" href="#single-season-best-win-single-season" role="tab" aria-controls="single-season-best-win-single-season" aria-selected="false">Best Win%</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-longest-win-streak-single-season-tab" data-toggle="pill" href="#single-season-longest-win-streak-single-season" role="tab" aria-controls="single-season-longest-win-streak-single-season" aria-selected="false">Longest Win Streak</a></li>
+<li class="nav-item"><a class="nav-link" id="single-season-longest-loss-streak-single-season-tab" data-toggle="pill" href="#single-season-longest-loss-streak-single-season" role="tab" aria-controls="single-season-longest-loss-streak-single-season" aria-selected="false">Longest Loss Streak</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane fade show active" id="single-season-most-wins-single-season" role="tabpanel" aria-labelledby="single-season-most-wins-single-season-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |   Season |
 |--------|-----------------------|---------|----------|
@@ -143,7 +206,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | They Tookerrr Jobs    |      11 |     2024 |
 |     10 | The Golden Taint      |      11 |     2018 |
 
-### Most Losses - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-most-losses-single-season" role="tabpanel" aria-labelledby="single-season-most-losses-single-season-tab" markdown="1">
 
 |   Rank | Franchise          |   Value |   Season |
 |--------|--------------------|---------|----------|
@@ -158,7 +222,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Fortes and Blounts |      11 |     2021 |
 |     10 | Boner Champ        |      10 |     2020 |
 
-### Most Points - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-most-points-single-season" role="tabpanel" aria-labelledby="single-season-most-points-single-season-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |   Season |
 |--------|-----------------------|---------|----------|
@@ -173,7 +238,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | The Mayor -           | 1665.84 |     2019 |
 |     10 | Let em breathe 68     | 1654.36 |     2020 |
 
-### Fewest Points - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-fewest-points-single-season" role="tabpanel" aria-labelledby="single-season-fewest-points-single-season-tab" markdown="1">
 
 |   Rank | Franchise          |   Value |   Season |
 |--------|--------------------|---------|----------|
@@ -188,7 +254,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Boner Champ        |     813 |     2007 |
 |     10 | Taste The Beast    |     835 |     2007 |
 
-### Best Win% - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-best-win-single-season" role="tabpanel" aria-labelledby="single-season-best-win-single-season-tab" markdown="1">
 
 |   Rank | Franchise             |    Value |   Season |
 |--------|-----------------------|----------|----------|
@@ -203,7 +270,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | The Mayor -           | 0.785714 |     2017 |
 |     10 | The Golden Taint      | 0.785714 |     2018 |
 
-### Longest Win Streak - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-longest-win-streak-single-season" role="tabpanel" aria-labelledby="single-season-longest-win-streak-single-season-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |   Season |
 |--------|-----------------------|---------|----------|
@@ -218,7 +286,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Dixie Normous         |       8 |     2007 |
 |     10 | Boner Champ           |       8 |     2008 |
 
-### Longest Loss Streak - Single Season
+</div>
+<div class="tab-pane fade" id="single-season-longest-loss-streak-single-season" role="tabpanel" aria-labelledby="single-season-longest-loss-streak-single-season-tab" markdown="1">
 
 |   Rank | Franchise          |   Value |   Season |
 |--------|--------------------|---------|----------|
@@ -233,9 +302,21 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Boner Champ        |       7 |     2020 |
 |     10 | They Tookerrr Jobs |       7 |     2016 |
 
-## Career
+</div>
+</div>
 
-### Career Wins
+</div>
+<div class="tab-pane fade" id="section-career" role="tabpanel" aria-labelledby="section-career-tab" markdown="1">
+
+<ul class="nav nav-pills mb-3" role="tablist">
+<li class="nav-item"><a class="nav-link active" id="career-career-wins-tab" data-toggle="pill" href="#career-career-wins" role="tab" aria-controls="career-career-wins" aria-selected="true">Career Wins</a></li>
+<li class="nav-item"><a class="nav-link" id="career-career-losses-tab" data-toggle="pill" href="#career-career-losses" role="tab" aria-controls="career-career-losses" aria-selected="false">Career Losses</a></li>
+<li class="nav-item"><a class="nav-link" id="career-career-win-min-3-seasons-tab" data-toggle="pill" href="#career-career-win-min-3-seasons" role="tab" aria-controls="career-career-win-min-3-seasons" aria-selected="false">Career Win% (min. 3 seasons)</a></li>
+<li class="nav-item"><a class="nav-link" id="career-career-points-scored-tab" data-toggle="pill" href="#career-career-points-scored" role="tab" aria-controls="career-career-points-scored" aria-selected="false">Career Points Scored</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane fade show active" id="career-career-wins" role="tabpanel" aria-labelledby="career-career-wins-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |
 |--------|-----------------------|---------|
@@ -250,7 +331,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | The Golden Taint      |     101 |
 |     10 | Boner Champ           |     100 |
 
-### Career Losses
+</div>
+<div class="tab-pane fade" id="career-career-losses" role="tabpanel" aria-labelledby="career-career-losses-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |
 |--------|-----------------------|---------|
@@ -265,7 +347,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | Boner Champ           |      97 |
 |     10 | Quiet Quitters        |      97 |
 
-### Career Win% (min. 3 seasons)
+</div>
+<div class="tab-pane fade" id="career-career-win-min-3-seasons" role="tabpanel" aria-labelledby="career-career-win-min-3-seasons-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |
 |--------|-----------------------|---------|
@@ -280,7 +363,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | La Flama Blanca       |   0.5   |
 |     10 | Fortes and Blounts    |   0.498 |
 
-### Career Points Scored
+</div>
+<div class="tab-pane fade" id="career-career-points-scored" role="tabpanel" aria-labelledby="career-career-points-scored-tab" markdown="1">
 
 |   Rank | Franchise             |   Value |
 |--------|-----------------------|---------|
@@ -295,9 +379,19 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      9 | The Golden Taint      | 19491.4 |
 |     10 | Boner Champ           | 19148.1 |
 
-## Postseason
+</div>
+</div>
 
-### League Championships
+</div>
+<div class="tab-pane fade" id="section-postseason" role="tabpanel" aria-labelledby="section-postseason-tab" markdown="1">
+
+<ul class="nav nav-pills mb-3" role="tablist">
+<li class="nav-item"><a class="nav-link active" id="postseason-league-championships-tab" data-toggle="pill" href="#postseason-league-championships" role="tab" aria-controls="postseason-league-championships" aria-selected="true">League Championships</a></li>
+<li class="nav-item"><a class="nav-link" id="postseason-playoff-appearances-tab" data-toggle="pill" href="#postseason-playoff-appearances" role="tab" aria-controls="postseason-playoff-appearances" aria-selected="false">Playoff Appearances</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane fade show active" id="postseason-league-championships" role="tabpanel" aria-labelledby="postseason-league-championships-tab" markdown="1">
 
 |   Rank | Franchise             |   Championships | Years                        |
 |--------|-----------------------|-----------------|------------------------------|
@@ -311,7 +405,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      8 | Team Turbo            |               1 | 2010                         |
 |      9 | The Golden Taint      |               1 | 2007                         |
 
-### Playoff Appearances
+</div>
+<div class="tab-pane fade" id="postseason-playoff-appearances" role="tabpanel" aria-labelledby="postseason-playoff-appearances-tab" markdown="1">
 
 |   Rank | Franchise             |   Appearances |
 |--------|-----------------------|---------------|
@@ -325,3 +420,9 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      8 | The Mayor -           |             6 |
 |      9 | Team Turbo            |             5 |
 |     10 | The Golden Taint      |             5 |
+
+</div>
+</div>
+
+</div>
+</div>
