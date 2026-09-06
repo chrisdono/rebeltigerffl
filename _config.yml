@@ -19,12 +19,11 @@ author: Chris Donovan
 ###############################################
 
 navbar-links:
-  # Franchises: "aboutme"
-  # Teams: "teams"
   Home: "index"
   Power Rankings: "power_rankings"
   Weekly Wrapups: "weekly_wrapups"
-    # Records: "records"
+  Franchises: "franchises"
+  Records: "records"
 
 ################
 # --- Logo --- #
@@ -225,6 +224,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+
+collections:
+  franchises:
+    output: true
+    permalink: /franchises/:path/
 
 kramdown:
   input: GFM
