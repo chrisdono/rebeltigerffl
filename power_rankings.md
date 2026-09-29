@@ -8,18 +8,18 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 
 ### Power Rankings Week 3
 
-|   No. | Team                   |   PR Score |   Playoff % | Owner   |
-|-------|------------------------|------------|-------------|---------|
-|     1 | Pablo Pledgecobar      |      24.55 |       55.77 | Nick H  |
-|     2 | Joey Freshwater        |      23.75 |       58.13 | Tyler   |
-|     3 | The Mayor -            |      23.50 |       57.70 | Bill    |
-|     4 | Dixie Normous          |      23.10 |       51.32 | Trevor  |
-|     5 | They Tookerrr Jobs     |      20.25 |       33.05 | Alan    |
-|     6 | Hugh's  Butt Dial      |      16.95 |       32.67 | Brian   |
-|     7 | Let em breathe 68      |      16.95 |       19.82 | Lee     |
-|     8 | Fortes and Blounts     |      16.15 |       50.10 | Chris   |
-|     9 | Quiet Quitters         |      16.05 |       25.67 | Nick M  |
-|    10 | Eifert  for the Bradys |      14.40 |       15.75 | David   |
+|   No. | Team                   |   PR Score |   Playoff % |
+|-------|------------------------|------------|-------------|
+|     1 | Pablo Pledgecobar      |      24.55 |       55.77 |
+|     2 | Joey Freshwater        |      23.75 |       58.13 |
+|     3 | The Mayor -            |      23.50 |       57.70 |
+|     4 | Dixie Normous          |      23.10 |       51.32 |
+|     5 | They Tookerrr Jobs     |      20.25 |       33.05 |
+|     6 | Hugh's  Butt Dial      |      16.95 |       32.67 |
+|     7 | Let em breathe 68      |      16.95 |       19.82 |
+|     8 | Fortes and Blounts     |      16.15 |       50.10 |
+|     9 | Quiet Quitters         |      16.05 |       25.67 |
+|    10 | Eifert  for the Bradys |      14.40 |       15.75 |
 
 ### Standings
 
