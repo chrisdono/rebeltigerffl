@@ -3,43 +3,42 @@ layout: home_power_rankings
 title: Power Rankings
 cover-img: "assets/img/rebeltiger_header_dark.png"
 ---
-![](../assets/img/pr2024-16.png)
+![](../assets/img/pr2026-3.png)
 
 
-### Power Rankings Week 17
+### Power Rankings Week 3
 
 |   No. | Team                   |   PowerRank Formula |   Wins |   Losses |   Ties |   Playoff Chance |   Points Scored | Owner   |
 |-------|------------------------|---------------------|--------|----------|--------|------------------|-----------------|---------|
-|     1 | They Tookerrr Jobs     |              100.55 |     11 |        2 |      0 |           100.00 |         1691.28 | Alan    |
-|     2 | The Saucy Sheriff      |               80.75 |      7 |        6 |      0 |           100.00 |         1512.04 | Nick H  |
-|     3 | Quiet Quitters         |               73.75 |      8 |        5 |      0 |           100.00 |         1483.34 | Nick M  |
-|     4 | Eifert  for the Bradys |               69.00 |      6 |        7 |      0 |             0.00 |         1526.28 | David   |
-|     5 | Let em breathe 68      |               62.85 |      5 |        8 |      0 |             0.00 |         1610.80 | Lee     |
-|     6 | Joey Freshwater        |               59.45 |      7 |        6 |      0 |           100.00 |         1480.14 | Tyler   |
-|     7 | Fortes and Blounts     |               59.15 |      6 |        7 |      0 |             0.00 |         1556.62 | Chris   |
-|     8 | Dixie Normous          |               55.05 |      5 |        8 |      0 |             0.00 |         1371.64 | Trevor  |
-|     9 | The Mayor -            |               51.40 |      5 |        8 |      0 |             0.00 |         1387.92 | Bill    |
-|    10 | Hugh's  Butt Dial      |               51.25 |      5 |        8 |      0 |             0.00 |         1443.56 | Brian   |
+|     1 | Pablo Pledgecobar      |               24.55 |      2 |        1 |      0 |            55.77 |          409.80 | Nick H  |
+|     2 | Joey Freshwater        |               23.75 |      2 |        1 |      0 |            58.13 |          375.86 | Tyler   |
+|     3 | The Mayor -            |               23.50 |      2 |        1 |      0 |            57.70 |          378.00 | Bill    |
+|     4 | Dixie Normous          |               23.10 |      2 |        1 |      0 |            51.32 |          377.62 | Trevor  |
+|     5 | They Tookerrr Jobs     |               20.25 |      1 |        2 |      0 |            33.05 |          357.46 | Alan    |
+|     6 | Hugh's  Butt Dial      |               16.95 |      1 |        2 |      0 |            32.67 |          312.18 | Brian   |
+|     7 | Let em breathe 68      |               16.95 |      1 |        2 |      0 |            19.82 |          292.34 | Lee     |
+|     8 | Fortes and Blounts     |               16.15 |      2 |        1 |      0 |            50.10 |          270.88 | Chris   |
+|     9 | Quiet Quitters         |               16.05 |      1 |        2 |      0 |            25.67 |          308.30 | Nick M  |
+|    10 | Eifert  for the Bradys |               14.40 |      1 |        2 |      0 |            15.75 |          283.68 | David   |
 
 ### Standings
 
-#### BD Division Standings Week 17
+#### BD Division Standings Week 3
+
+| Team              |   Wins |   Losses |   Ties |   Points Scored | Owner   |
+|-------------------|--------|----------|--------|-----------------|---------|
+| Pablo Pledgecobar |      2 |        1 |      0 |          409.80 | Nick H  |
+| The Mayor -       |      2 |        1 |      0 |          378.00 | Bill    |
+| Dixie Normous     |      2 |        1 |      0 |          377.62 | Trevor  |
+| Quiet Quitters    |      1 |        2 |      0 |          308.30 | Nick M  |
+| Let em breathe 68 |      1 |        2 |      0 |          292.34 | Lee     |
+
+#### JT Division Standings Week 3
 
 | Team                   |   Wins |   Losses |   Ties |   Points Scored | Owner   |
 |------------------------|--------|----------|--------|-----------------|---------|
-| The Saucy Sheriff      |      7 |        6 |      0 |         1512.04 | Nick H  |
-| Joey Freshwater        |      7 |        6 |      0 |         1480.14 | Tyler   |
-| Eifert  for the Bradys |      6 |        7 |      0 |         1526.28 | David   |
-| Let em breathe 68      |      5 |        8 |      0 |         1610.80 | Lee     |
-| The Mayor -            |      5 |        8 |      0 |         1387.92 | Bill    |
-
-#### JT Division Standings Week 17
-
-| Team               |   Wins |   Losses |   Ties |   Points Scored | Owner   |
-|--------------------|--------|----------|--------|-----------------|---------|
-| They Tookerrr Jobs |     11 |        2 |      0 |         1691.28 | Alan    |
-| Quiet Quitters     |      8 |        5 |      0 |         1483.34 | Nick M  |
-| Dixie Normous      |      5 |        8 |      0 |         1371.64 | Trevor  |
-| Fortes and Blounts |      6 |        7 |      0 |         1556.62 | Chris   |
-| Hugh's  Butt Dial  |      5 |        8 |      0 |         1443.56 | Brian   |
-
+| Joey Freshwater        |      2 |        1 |      0 |          375.86 | Tyler   |
+| Fortes and Blounts     |      2 |        1 |      0 |          270.88 | Chris   |
+| They Tookerrr Jobs     |      1 |        2 |      0 |          357.46 | Alan    |
+| Hugh's  Butt Dial      |      1 |        2 |      0 |          312.18 | Brian   |
+| Eifert  for the Bradys |      1 |        2 |      0 |          283.68 | David   |

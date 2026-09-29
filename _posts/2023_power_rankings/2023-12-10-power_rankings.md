@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Power Rankings Week 14
+title: Power Rankings 2023
 tags: 2023 ranking
 ---
 
