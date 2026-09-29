@@ -15,7 +15,7 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 - [Dixie Normous](/franchises/dixie-normous/) -- Trevor D (128-120-0, 1 title)
 - [The Mayor -](/franchises/the-mayor/) -- Bill J (112-126-0, 0 titles)
 - [Quiet Quitters](/franchises/quiet-quitters/) -- Nick M (65-97-0, 0 titles)
-- [The Saucy Sheriff](/franchises/the-saucy-sheriff/) -- Nick H (32-33-0, 1 title)
+- [Pablo Pledgecobar](/franchises/pablo-pledgecobar/) -- Nick H (32-33-0, 1 title)
 
 ## Retired Franchises
 

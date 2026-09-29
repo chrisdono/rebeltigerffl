@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Saucy Sheriff
+title: Pablo Pledgecobar
 cover-img: "assets/img/rebeltiger_header_dark.png"
 ---
 
@@ -13,7 +13,7 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 **Playoff Appearances:** 2  
 **Career Points For:** 7,439.9  
 
-*New team added to the league in 2021.*
+*New team added to the league in 2021. Formerly "The Saucy Sheriff" (2021-2025) before renaming to "Pablo Pledgecobar" (2026-).*
 
 ### Season by Season
 

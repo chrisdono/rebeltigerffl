@@ -59,8 +59,8 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      6 | They Tookerrr Jobs    |  293.26 |     2024 |     14 | Joey Freshwater (247.08)   |
 |      7 | Quiet Quitters        |  287.28 |     2024 |     15 | Joey Freshwater (280.02)   |
 |      8 | Eifert for the Bradys |  286.48 |     2022 |     14 | Dixie Normous (231.24)     |
-|      9 | Let em breathe 68     |  284.26 |     2025 |     14 | The Saucy Sheriff (245.4)  |
-|     10 | Quiet Quitters        |  283.28 |     2021 |     15 | The Saucy Sheriff (128.4)  |
+|      9 | Let em breathe 68     |  284.26 |     2025 |     14 | Pablo Pledgecobar (245.4)  |
+|     10 | Quiet Quitters        |  283.28 |     2021 |     15 | Pablo Pledgecobar (128.4)  |
 
 </div>
 <div class="tab-pane fade" id="single-game-fewest-points-scored-single-game" role="tabpanel" aria-labelledby="single-game-fewest-points-scored-single-game-tab" markdown="1">
@@ -101,11 +101,11 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |--------|-----------------------|---------|----------|--------|-----------------------------|
 |      1 | Joey Freshwater       |  280.02 |     2024 |     15 | Quiet Quitters (287.28)     |
 |      2 | Boner Champ           |  258.12 |     2021 |     14 | Hugh's Butt Dial (260.84)   |
-|      3 | Quiet Quitters        |  256.72 |     2024 |     14 | The Saucy Sheriff (269.36)  |
-|      4 | They Tookerrr Jobs    |  255.9  |     2024 |     15 | The Saucy Sheriff (261.24)  |
+|      3 | Quiet Quitters        |  256.72 |     2024 |     14 | Pablo Pledgecobar (269.36)  |
+|      4 | They Tookerrr Jobs    |  255.9  |     2024 |     15 | Pablo Pledgecobar (261.24)  |
 |      5 | Eifert for the Bradys |  250    |     2012 |     15 | Let em breathe 68 (278.0)   |
 |      6 | Joey Freshwater       |  247.08 |     2024 |     14 | They Tookerrr Jobs (293.26) |
-|      7 | The Saucy Sheriff     |  245.4  |     2025 |     14 | Let em breathe 68 (284.26)  |
+|      7 | Pablo Pledgecobar     |  245.4  |     2025 |     14 | Let em breathe 68 (284.26)  |
 |      8 | Hugh's Butt Dial      |  242.3  |     2025 |     15 | Let em breathe 68 (243.28)  |
 |      9 | La Flama Blanca       |  239    |     2011 |     13 | Taste The Beast (246.0)     |
 |     10 | Quiet Quitters        |  232.14 |     2025 |     15 | They Tookerrr Jobs (238.64) |
@@ -117,12 +117,12 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |--------|-----------------------|---------|----------|--------|----------------------------|
 |      1 | Joey Freshwater       |  280.02 |     2024 |     15 | Quiet Quitters (287.28)    |
 |      2 | They Tookerrr Jobs    |  293.26 |     2024 |     14 | Joey Freshwater (247.08)   |
-|      3 | Let em breathe 68     |  284.26 |     2025 |     14 | The Saucy Sheriff (245.4)  |
+|      3 | Let em breathe 68     |  284.26 |     2025 |     14 | Pablo Pledgecobar (245.4)  |
 |      4 | Eifert for the Bradys |  250    |     2012 |     15 | Let em breathe 68 (278.0)  |
-|      5 | Quiet Quitters        |  256.72 |     2024 |     14 | The Saucy Sheriff (269.36) |
+|      5 | Quiet Quitters        |  256.72 |     2024 |     14 | Pablo Pledgecobar (269.36) |
 |      6 | Hugh's Butt Dial      |  260.84 |     2021 |     14 | Boner Champ (258.12)       |
 |      7 | Eifert for the Bradys |  286.48 |     2022 |     14 | Dixie Normous (231.24)     |
-|      8 | They Tookerrr Jobs    |  255.9  |     2024 |     15 | The Saucy Sheriff (261.24) |
+|      8 | They Tookerrr Jobs    |  255.9  |     2024 |     15 | Pablo Pledgecobar (261.24) |
 |      9 | Fortes and Blounts    |  324    |     2012 |     15 | Dixie Normous (176.0)      |
 |     10 | Hugh's Butt Dial      |  300    |     2013 |     14 | Team Turbo (191.0)         |
 
@@ -149,11 +149,11 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |--------|--------------------|---------|----------|--------|----------------------------|
 |      1 | Hugh's Butt Dial   |  320    |     2014 |     15 | Dixie Normous (102.0)      |
 |      2 | Taste The Beast    |  308    |     2012 |     14 | They Tookerrr Jobs (125.0) |
-|      3 | Quiet Quitters     |  283.28 |     2021 |     15 | The Saucy Sheriff (128.4)  |
+|      3 | Quiet Quitters     |  283.28 |     2021 |     15 | Pablo Pledgecobar (128.4)  |
 |      4 | Fortes and Blounts |  324    |     2012 |     15 | Dixie Normous (176.0)      |
 |      5 | Boner Champ        |  175.5  |     2016 |      5 | Let em breathe 68 (30.0)   |
 |      6 | Dixie Normous      |  303.94 |     2025 |     15 | Joey Freshwater (168.2)    |
-|      7 | Fortes and Blounts |  280.16 |     2025 |     15 | The Saucy Sheriff (160.92) |
+|      7 | Fortes and Blounts |  280.16 |     2025 |     15 | Pablo Pledgecobar (160.92) |
 |      8 | The Mayor -        |  276    |     2013 |     15 | Italian Sausage (164.0)    |
 |      9 | Hugh's Butt Dial   |  300    |     2013 |     14 | Team Turbo (191.0)         |
 |     10 | Team Turbo         |  205.32 |     2020 |     12 | The Mayor - (98.18)        |
@@ -401,7 +401,7 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 |      4 | Let em breathe 68     |               3 | 2020, 2022, 2025             |
 |      5 | Joey Freshwater       |               1 | 2006                         |
 |      6 | Dixie Normous         |               1 | 2021                         |
-|      7 | The Saucy Sheriff     |               1 | 2024                         |
+|      7 | Pablo Pledgecobar     |               1 | 2024                         |
 |      8 | Team Turbo            |               1 | 2010                         |
 |      9 | The Golden Taint      |               1 | 2007                         |
 
