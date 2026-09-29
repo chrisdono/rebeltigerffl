@@ -6,7 +6,7 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 
 ## The League
 
-Rebel Tiger FFL has been running since **2006** - 2026 is our 21st season. The league started at 10 teams, expanded to 15 in 2007, settled at 12 for most of the 2008-2020 stretch, and has run at 10 teams since a 2021 contraction.
+Rebel Tiger FFL has been running since **2006**. 2026 is our 21st season. The league started at 10 teams, expanded to 15 in 2007, settled at 12 for most of the 2008-2020 stretch, and has run at 10 teams since a 2021 contraction.
 
 **21 different owners** have come through the league across its history, and 10 are active today: Chris, Brian, Alan, David, Tyler, Lee, Trevor, Bill, Nick M, and Nick H. A few have been around, left, and come back - Tyler sat out 2008-2021 before rejoining in 2022, and Nick M did the same from 2007-2014.
 
