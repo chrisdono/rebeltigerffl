@@ -8,18 +8,18 @@ cover-img: "assets/img/rebeltiger_header_dark.png"
 
 ### Power Rankings Week 3
 
-|   No. | Team                   |   PowerRank Formula | Record   |   Playoff Chance |   Points Scored | Owner   |
-|-------|------------------------|---------------------|----------|------------------|-----------------|---------|
-|     1 | Pablo Pledgecobar      |               24.55 | 2-1-0    |            55.77 |          409.80 | Nick H  |
-|     2 | Joey Freshwater        |               23.75 | 2-1-0    |            58.13 |          375.86 | Tyler   |
-|     3 | The Mayor -            |               23.50 | 2-1-0    |            57.70 |          378.00 | Bill    |
-|     4 | Dixie Normous          |               23.10 | 2-1-0    |            51.32 |          377.62 | Trevor  |
-|     5 | They Tookerrr Jobs     |               20.25 | 1-2-0    |            33.05 |          357.46 | Alan    |
-|     6 | Hugh's  Butt Dial      |               16.95 | 1-2-0    |            32.67 |          312.18 | Brian   |
-|     7 | Let em breathe 68      |               16.95 | 1-2-0    |            19.82 |          292.34 | Lee     |
-|     8 | Fortes and Blounts     |               16.15 | 2-1-0    |            50.10 |          270.88 | Chris   |
-|     9 | Quiet Quitters         |               16.05 | 1-2-0    |            25.67 |          308.30 | Nick M  |
-|    10 | Eifert  for the Bradys |               14.40 | 1-2-0    |            15.75 |          283.68 | David   |
+|   No. | Team                   |   PR Score |   Playoff % | Owner   |
+|-------|------------------------|------------|-------------|---------|
+|     1 | Pablo Pledgecobar      |      24.55 |       55.77 | Nick H  |
+|     2 | Joey Freshwater        |      23.75 |       58.13 | Tyler   |
+|     3 | The Mayor -            |      23.50 |       57.70 | Bill    |
+|     4 | Dixie Normous          |      23.10 |       51.32 | Trevor  |
+|     5 | They Tookerrr Jobs     |      20.25 |       33.05 | Alan    |
+|     6 | Hugh's  Butt Dial      |      16.95 |       32.67 | Brian   |
+|     7 | Let em breathe 68      |      16.95 |       19.82 | Lee     |
+|     8 | Fortes and Blounts     |      16.15 |       50.10 | Chris   |
+|     9 | Quiet Quitters         |      16.05 |       25.67 | Nick M  |
+|    10 | Eifert  for the Bradys |      14.40 |       15.75 | David   |
 
 ### Standings
 
